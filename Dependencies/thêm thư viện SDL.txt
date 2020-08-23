@@ -1,0 +1,4 @@
+freeglut.lib
+glew32.lib
+SDL2.lib
+SDL2main.lib
